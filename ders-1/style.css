@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearFix {
+    clear: both;
+}
+.box {
+    border: 1px solid black;
+    width: 33.3%;
+    padding: 2rem;
+    height: 250px;
+    text-align: center;
+    font-size: 4rem;
+    background: red;
+    color: white;
+    float: left;
+}
+
+.adiHeight {
+    background-color: red;
+    float: left;
+    border: 2px solid black;
+    width: 33.3%;
+    height: 350px;
+    font-size: 2rem;
+}
+.adiHeight:hover{
+  width: 100%;
+}
+
+.minHeight {
+    background-color: red;
+    float: left;
+    border: 2px solid black;
+    width: 33.3%;
+    min-height: 350px;
+    font-size: 2rem;
+}
+.maxHeight {
+    background-color: red;
+    float: left;
+    border: 2px solid black;
+    width: 33.3%;
+    max-height: 350px;
+    font-size: 2rem;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.btn{
+    padding: 1rem 3rem;
+    margin: 2rem 0;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: blueviolet;
+}
