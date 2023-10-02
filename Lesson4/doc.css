@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Courses {
+    background-image: url(https://img.freepik.com/premium-photo/teenage-school-girl-with-books-schoolgirl-student-happy-girl-face-positive-smiling-emotions_545934-24411.jpg?w=1380);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.Courses .text {
+    width: 40%;
+    margin-top: 3rem;
+    padding-top: 9rem;
+    margin-left: 2rem;
+    color: white;
+    font-family: monospace;
+    font-size: 18px;
+
+}
+
+.Courses .text h1 {
+    font-size: 2.5rem;
+    text-shadow: 4px 0px 5px white;
+}  
+.Courses .text p {
+
+   margin: revert;
+   margin-bottom: 2rem;
+   width: 80%;
+}
+
+
+
+
+.Courses .text button{
+    background-color: aqua;
+    padding: 0, 5rem;
+   padding: 0.5rem;
+}
