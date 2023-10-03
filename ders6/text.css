@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@500&family=Young+Serif&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(253, 243, 243);
+   
+}
+
+.Area .d-flex .minibox {
+    display: flex;
+    width: 90%;
+ 
+    padding: 20px;
+    font-size: 25px;
+    justify-content: space-between;
+
+}
+
+.Area .d-flex i {
+    color: rgb(216, 107, 107);
+    font-size: 50px;
+    margin-bottom: 2rem;
+    background-color: rgb(238, 215, 215);
+    border: 1px solid beige;
+    border-radius: 15rem;
+}
+
+.Area .d-flex p {
+    margin-bottom: 20px;
+    color: rgb(200, 206, 191);
+}
+
+.Area .d-flex .bigbox {
+    background-color: red;
+    color: aliceblue;
+    width: 150%;
+    height: 450px;
+}
+
+.d-flex h1 {
+    font-size: 40px;
+
+}
+
+.Area .d-flex .bigbox p {
+    color: white;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.Area .d-flex .minibox .bigbox h5 {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 40px;
+
+}
