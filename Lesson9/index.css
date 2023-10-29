@@ -1,14 +1,14 @@
 .metrics .box {
-    background-color: navy;
+    background-color:#1E444B;
     border: 1px solid black;
     height: 250px;
     padding-top: 1rem;
-    width: 24%;
-
+   width: 24%;
+border-radius: 2rem;
 }
 
 .metrics .container h1 {
-    color: rgb(23, 23, 140);
+    color: #1E444B;
 }
 
 .metrics .box h3 {
@@ -29,7 +29,7 @@
 }
 
 .metrics .box b {
-    font-size: 25px;
+    font-size: 52px;
     color: white;
     margin-left: 2rem;
     margin-bottom: 3rem;
@@ -41,12 +41,12 @@
 }
 
 .features .container h1 {
-    color: navy;
+    color: #1E444B;
 }
 
 .features .container i {
     font-size: 30px;
-    color: navy;
+    color:#1E444B;
 }
 
 .features {
@@ -58,13 +58,13 @@
 
 
 .project .container .row h1 {
-    color: navy;
+    color:#1E444B;
     font-size: 2rem;
     margin-top: 3rem;
 }
 
 .project .container .row p {
-    color: navy;
+    color:#1E444B;
     width: 80%;
     margin-top: 2rem;
 
@@ -77,22 +77,23 @@
 
 
 .work .container h1 {
-    color: navy;
-    font-size: 3rem;
+    color: #1E444B;
+    font-size: 2.8rem;
     margin-top: 1rem;
 }
 
 .work .container p {
-    color: navy;
+    color:#1E444B ;
+    
 }
 
 .work .container h3 {
-    color: navy;
+    color: #1E444B;
 }
 
 .work .container b {
     font-size: 30px;
-    color: navy;
+    color: #1E444B;
     margin-top: 3rem;
 }
 
@@ -101,29 +102,32 @@
 }
 
 .work .container button {
-    background-color: navy;
+    background-color: #1E444B;
     border: 1px solid black;
     color: white;
     padding: 0.5rem;
     width: 17%;
+    border-radius: 1rem;
+  
 }
 
 
 .happen .container h1 {
-    color: navy;
-    font-size: 3rem;
+    color: #1E444B;
+    font-size: 2.8rem;
 }
 
 .happen .container button {
-    background-color: navy;
+    background-color: #1E444B;
     border: 1px solid black;
     color: white;
     width: 17%;
     padding: 0.5rem;
+    border-radius: 1rem;
 }
 
 .happen .container h3 {
-    color: navy;
+    color: #1E444B;
 }
 
 .happen {
@@ -131,13 +135,13 @@
 }
 
 .happen .container p {
-    color: navy;
+    color: #1E444B;
 
 }
 
 .happen .container b {
     font-size: 30px;
-    color: navy;
+    color: #1E444B;
     margin-top: 3rem;
 
 }
