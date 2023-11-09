@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;500;600&family=Martian+Mono:wght@500&family=Montserrat&family=Onest:wght@700&family=Roboto+Serif:opsz,wght@8..144,300&family=Roboto:wght@300&family=Young+Serif&display=swap');
+
+.mission .container h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mission .container span {
+    color: #67696C;
+
+}
+
+.mission i {
+   font-size: 4rem;
+    color: #6AF0FE;
+    margin-bottom: 2rem;
+}
+
+.mission h3 {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mission img{
+height: 500px;
+
+}
+.mission p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+.foundation{
+   background-image: url(https://preview.colorlib.com/theme/foundation2/images/world-dotted-map.png);
+  height:100vh;
+   background-color:#070D59;
+   position: relative;
+   background-repeat: no-repeat; 
+  margin-top: 7rem;
+}
+.foundation .text{
+    color:white;
+    position: absolute;
+    left:16rem;
+   top: 18rem;
+}
+.foundation .text h1{
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+}
+.foundation .text p{
+    width: 80%;
+    font-size: 1.2rem;
+}
+.foundation .text h3{
+  margin-top: 3rem;
+  color: #636C77;
+  margin-left: 1rem;
+  margin-bottom: 4rem;
+}
+.foundation .text h4{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left:3rem ;
+    margin-bottom: 2rem;
+}
+.foundation .text span{
+    margin-left: 2rem;
+
+}
+.foundation h2{
+    color: white;
+    position: absolute;
+    left: 7rem;
+   top: 3rem;
+   font-weight: bold;
+   font-size: 2rem;
+}
+.foundation .text button{
+    border: 1px solid black;
+    padding: 1rem;
+    background-color: aqua;
+    width: 10%;
+    position: absolute;
+    left: 42rem;
+    top: 9rem;
+    border-radius: 0.4rem;
+}
+
+
+ .foundation .away {
+    color:gray;
+ }
