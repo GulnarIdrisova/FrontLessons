@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;500;600&family=Inter:wght@500&family=Martian+Mono:wght@500&family=Montserrat&family=Onest:wght@700&family=Poiret+One&family=Roboto+Serif:opsz,wght@8..144,300&family=Roboto:wght@300&family=Young+Serif&display=swap');
+
+
+
+.blog h1 {
+    text-align: center;
+}
+
+.blog .card {
+    border: none;
+}
+
+.blog ul {
+    color: #B2B2B2;
+}
+
+.blog h5 {
+    font-size: 20px;
+    font-weight: 900;
+    color: #1C1C1C;
+}
+
+.products .card {
+    border: none;
+    margin-top: 2rem;
+}
+
+.products {
+    margin-top: 5rem;
+}
+
+.products span {
+    font-weight: 900;
+}
+
+body {
+    height: 5000px;
+}
+
+
+
+.offers h3 {
+    font-size: 25px;
+    color: #000;
+    text-align: center;
+}
+
+.offers img {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.offers span {
+    color: #8bc34a;
+    font-size: 25px;
+    margin-left: 5rem;
+}
+
+.offers p {
+    color: #7E7E7E;
+    text-align: center;
+}
+
+.offers h1 {
+    text-align: center;
+}
+
+.offers {
+    margin-top: 5rem;
+}
+
+
+
+
+.things h1{
+    text-align: center;
+
+}
+.things h6{
+    text-align: center;
+    color: #7E7E7E;
+}
+
+.things h4{
+    position: absolute;
+    color:white;
+
+}
+.things img{
+    position:relative ;
+    margin-bottom: 1rem;
+ 
+}
+.cakeshop img{
+    margin-bottom: 6rem;
+}
+
+.cakeshop {
+  background-color: black;
+    margin-top: 5rem;
+    height: 2000px;
+}
+.cakeshop h3{
+color: #BB901F;
+}
+    
+.cakeshop p{
+    color: white;
+}
+.cakeshop h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 3rem;
+    padding-top: 4rem;
+    font-size: 40px;
+    font-family: "Poiret One",cursive;
+}
+.cakeshop h3{
+    font-family: "Poiret One",cursive;  
+}
