@@ -1,0 +1,44 @@
+.container input{
+    margin-bottom: 2rem;
+    border: solid 1px #cccccc;
+   border-radius: 4px;
+}
+.container label{
+  color:#224285;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-size: 20px;
+  margin-top: 1rem;
+ 
+}
+
+.container button{
+    width: 20%;
+    margin: auto;
+    padding: 1rem;
+    background-color:#224285 ;
+    box-shadow: 10px 10px gray;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+
+}
+body{
+    color: #F1F1F1;
+    height: 2000px;
+}
+.container p{
+    color:#224285 ;
+    font-weight: bold;
+ 
+}
+.container select{
+    color:#224285 ;
+    font-weight: bold;
+}
+.formData{
+    width: 60%;
+    margin:auto;
+    box-shadow: 5px 5px 5px 5px #d4e5ef;
+    background-color: white;
+    margin-top: 4rem;
+}
