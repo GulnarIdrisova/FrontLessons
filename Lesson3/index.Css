@@ -1,18 +1,19 @@
-body {
-    background-color: #011627;
-    color: white;
- 
+.container{
+    width: 80%;
+    margin: auto;
 }
+body {
+       background-color: #011627;
+    color: white;
 
+}
 .page {
     text-align: center;
-  
+ 
 }
-
 .page p {
     font-size: 1.5rem;
 }
-
 .page button {
     color: black;
     background-color: #FF9F1C;
@@ -21,3 +22,10 @@ body {
     margin: 1rem;
     font-size: 1rem;
 }
+.page h1{
+    font-size: 2rem;
+}
+.page h2{
+    margin-bottom: 4rem;
+}
+
